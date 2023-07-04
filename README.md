@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/safatsaat2](https://github.com/safatsaat2)
+- 👨‍💻 All of my projects are available at [https://sakiburdev.netlify.app/](https://sakiburdev.netlify.app/)
 
 - 💬 Ask me about **JavaScript, ReactJS, Firebase Auth, HTML 5, CSS, Tailwind CSS, Bootstrap, Daisy UI, Flowbite, MongoDB, NodeJS, ExpressJS, Json Web Token**
 
