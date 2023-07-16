@@ -1,7 +1,8 @@
 <h1 >Hi 👋, I'm Sakibur Rahman Safat</h1>
 <h3 >I am Sakibur Rahman Safat, a web developer with expertise in front-end development using JavaScript and the JavaScript library Reactjs. I specialize in creating intuitive and responsive user interfaces using Tailwind CSS, Daisy UI, and Flowbite. On the backend, I leverage Node.js with Express.js to build robust APIs and web servers. I have a deep understanding of MongoDB and utilize its capabilities as a comprehensive developer data platform for efficient data modeling and querying. I am committed to continuous learning and staying updated with emerging technologies and best practices to deliver cutting-edge web solutions and immersive experiences.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/safatsaat2/safatsaat2/assets/93140669/6eae05a2-3a10-4b50-a3c7-a680adad78ea)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safatsaat2&label=Profile%20views&color=0e75b6&style=flat" alt="safatsaat2" /> </p>
 
