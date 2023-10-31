@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1MyWQ2QSq_cBTuff83GXoM6uWDPpmh472?usp=sharing](https://drive.google.com/drive/folders/1MyWQ2QSq_cBTuff83GXoM6uWDPpmh472?usp=sharing)
 
-- ⚡ Interpersonal Skills **Organized | Detail-oriented | Flexible | Creative | Dedicated**
+- ⚡ Interpersonal Skills **Organized | Detail-oriented | Flexible | Creative | Dedicated | Leadership**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
