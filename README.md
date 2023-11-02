@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sakiburdev.netlify.app/](https://sakiburdev.netlify.app/)
 
-- 💬 Ask me about **JavaScript, TypeScript, ReactJS, Firebase Auth, HTML 5, CSS, Tailwind CSS, Bootstrap, Daisy UI, Flowbite, MongoDB, NodeJS, ExpressJS, Json Web Token**
+- 💬 Ask me about **JavaScript, TypeScript, ReactJS, Firebase Auth, HTML 5, CSS, Tailwind CSS, Bootstrap, Daisy UI, Flowbite, MongoDB, NodeJS, ExpressJS, JSON Web Token**
 
 - 📫 How to reach me **sakibsafat47@gmail.com**
 
