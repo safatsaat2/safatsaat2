@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safatsaat2&label=Profile%20views&color=0e75b6&style=flat" alt="safatsaat2" /> </p>
 
-- 🔭 I’m currently working on **SH-Fashion**
+- 💻 I’m currently working on **SH-Fashion**
 
 - 🌱 I’m currently learning **NextJs**
 
